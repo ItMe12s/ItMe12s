@@ -1,7 +1,7 @@
 # Ja, Name's Shinn 🗣️‼️
 Software and game developer from Thailand.
 
-Mostly open source.
+**Mostly open source projects.
 
 ### Up-to-date information about me
 - Working on Roblox games
