@@ -2,14 +2,10 @@
 🎮 Software & Game Developer from Thailand  
 🛠️ Mostly working on open source projects
 
----
-
 ## 🚧 Currently Building
 - 🎲 Roblox games (Modular code)
 - 🖼️ Supporting [OpenPoster](https://github.com/openposter)
 - 📱 iOS widgets via Scriptable (on pause for now)
-
----
 
 ## 🧠 Tools & Languages
 [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
