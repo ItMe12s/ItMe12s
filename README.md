@@ -15,6 +15,6 @@
 </div>
 
 ## 🚧 Currently Building
-- 🎲 Roblox games (modular code)
-- 🖼️ Mainly supporting [OpenPoster](https://github.com/openposter)
+- 🎲 Roblox games
 - 📱 iOS widgets via Scriptable (on pause for now)
+- 😔 And probably more side projects with no deadline
